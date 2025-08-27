@@ -77,15 +77,3 @@ Place all screenshots in the `/screenshots/05-conditional-access/` directory.
 ---
 
 
-
----
-
-## ✅ Detection Considerations
-
-- Ensure correct assignments: **All users**, **All cloud apps**, or scope-specific groups
-- Use named locations or trusted networks for location-based rules
-- Monitor via **Sign-in Logs** under Entra ID > Monitoring
-
----
-
-
