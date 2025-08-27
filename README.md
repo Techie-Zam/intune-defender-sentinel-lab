@@ -31,13 +31,14 @@ This lab is both my hands-on training ground and a reflection of the kind of wor
 
 | Folder | Description |
 |--------|-------------|
-| `01-device-enrollment/` | Windows & iOS enrollment via Intune |
-| `02-app-deployment/` | Win32 app packaging + deployment |
-| `03-compliance-config-policies/` | BitLocker, Defender AV, Update Rings |
-| `04-conditional-access/` | MFA, CA blocking, compliant access |
-| `05-autopilot-lab/` | Hyper-V VM prep, deployment profiles |
-| `06-defender-for-endpoint/` | Onboarding, policies, telemetry |
-| `07-sentinel-lab/` | Data connectors, alert rules, log queries |
+| `01-device-enrollment/` | iPad and Windows 10 device enrollment, MDM settings, and Apple MDM certificate |
+| `02-app-deployment/` | Win32 app packaging, deployment steps, and detection rules (e.g. Chrome MSI) |
+| `03-app-protection-policy/` | MAM policies for iOS devices, targeting BYOD scenarios and app-level protections |
+| `04-compliance-config-policies/` | Compliance & configuration profiles including BitLocker, Defender AV, password policies |
+| `05-conditional-access/` | Conditional Access configurations with MFA, compliant-only access, and user/device targeting |
+| `06-autopilot-lab/` | Autopilot preparation, CSV hash testing, Hyper-V setup *(in progress)* |
+| `07-defender-for-endpoint/` | Defender for Endpoint onboarding, AV policy integration, machine group setup |
+| `08-sentinel-lab/` | Microsoft Sentinel connector setup, custom alert rules, and basic KQL log queries |
 
 ## 🛠 Tools Used
 
