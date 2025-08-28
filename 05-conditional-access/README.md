@@ -45,8 +45,6 @@ This section documents the Conditional Access (CA) policies tested in a lab envi
 
 
 
-Place all screenshots in the `/screenshots/05-conditional-access/` directory.
-
 ---
 
 ## 🧪 Policy Testing Notes
