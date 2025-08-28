@@ -1,5 +1,5 @@
 # 🛡️ Microsoft Defender for Endpoint
-
+🚧 Work in Progress — Full documentation and screenshots coming soon.
 Initial lab setup complete. Devices were successfully onboarded to Defender, and threat data is flowing.
 
 - Microsoft Defender Security Center accessed
