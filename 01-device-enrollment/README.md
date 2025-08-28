@@ -60,7 +60,7 @@ This lab demonstrates how I enrolled Windows and iOS devices into Microsoft Intu
 | ![Apple MDM Certificate](./screenshots/apple-mdm-certificate.png) | Active Apple MDM push certificate |
 | ![iPad Enrolled](./screenshots/ipad-enrollment-status.png) | Personal iPad showing enrolled and compliant |
 | ![Windows Device Enrollment](./screenshots/windows-device-in-intune.png) | Windows 10 device enrolled and syncing |
-| ![iOS Compliance Policy](./screenshots/ios-compliance-policy.png) | iOS compliance policy settings applied |
+| ![iOS Compliant Devices](./screenshots/ios-compliance-device.png) | iOS compliance policy settings applied |
 
 > 📁 All screenshots are stored in: `01-device-enrollment/screenshots/`
 
