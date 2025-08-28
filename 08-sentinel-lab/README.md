@@ -1,4 +1,5 @@
 # 🔍 Microsoft Sentinel Lab
+🚧 Work in Progress — Full documentation and screenshots coming soon.
 
 Microsoft Sentinel was connected to the Log Analytics workspace. Devices reporting in from Defender integration.
 
