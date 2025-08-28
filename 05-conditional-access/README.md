@@ -33,16 +33,17 @@ This section documents the Conditional Access (CA) policies tested in a lab envi
 | Require MDM-enrolled and compliant device for M365 access   | Enforces Intune compliance before app access            | **Report-only** | 08/03/2025   |
 
 ---
+## 📸 Sample Screenshots
 
-## 📸 Screenshots
+| Screenshot Description                        | Preview                                              |
+|----------------------------------------------|------------------------------------------------------|
+| CA Policies Overview                         | ![CA Policies Overview](screenshots/ca-policies-overview.png) |
+| Block Legacy Authentication – Configuration  | ![Block Legacy](screenshots/ca-policy-block-legacy.png)       |
+| MFA for All Users – Assignment                | ![MFA Required M365](screenshots/ca-policy-mfa-required-m365.png) |
+| MFA for Admins – Role Targeting               | ![MFA Admins](screenshots/ca-policy-mfa-admins.png)           |
+| Require Compliant Device – Full Breakdown     | ![MDM Required](screenshots/ca-policy-mdm-required-m365.png)  |
 
-| Screenshot Name                              | Description                                             |
-|----------------------------------------------|---------------------------------------------------------|
-| `[ca-policies-overview].png`                 | List view of all CA policies in Entra Admin Center     |
-| `[ca-policy-block-legacy].png`               | Block legacy authentication – policy configuration     |
-| `[ca-policy-mfa-required-m365].png`          | MFA for all users – user & resource assignment         |
-| `[ca-policy-mfa-admins].png`                 | MFA for admins – role targeting setup                  |
-| `[c-_policy-mdm-required-m365].png`          | Require compliant device – full policy breakdown       |
+
 
 Place all screenshots in the `/screenshots/05-conditional-access/` directory.
 
