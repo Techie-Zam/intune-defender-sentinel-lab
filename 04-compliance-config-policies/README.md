@@ -77,7 +77,7 @@ To enforce secure configurations across test devices (Windows 10, Windows 11, an
 ![Legacy Windows 10 Compliance Policy](./screenshots/legacy-win10-compliance-policy.png)
 
 ### Windows 10/11 Unified Compliance Policy  
-![Win10/11 Compliance Policy](./screenshots/win10/11-compliance-policy.png)
+![Win10/11 Compliance Policy](./screenshots/win1011-compliance-policy.png)
 
 ### Windows 11 Update Ring  
 ![Win11 Update Ring](./screenshots/windows11-update-ring.png)
