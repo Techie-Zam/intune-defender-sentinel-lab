@@ -71,25 +71,22 @@ To enforce secure configurations across test devices (Windows 10, Windows 11, an
 ## 🔍 Screenshots
 
 ### iOS Compliance Policy  
-![iOS Compliance Policy](./screenshots/ios_compliance_policy.png)
+![iOS Compliance Policy](./screenshots/ios-compliance-policy.png)
 
 ### Windows 10 Legacy Compliance Policy  
-![Legacy Windows 10 Compliance Policy](./screenshots/legacy_win10_compliance_policy.png)
+![Legacy Windows 10 Compliance Policy](./screenshots/legacy-win10-compliance-policy.png)
 
 ### Windows 10/11 Unified Compliance Policy  
-![Win10/11 Compliance Policy](./screenshots/win10_11_compliance_policy.png)
-
-### Windows 10 Update Ring  
-![Win10 Update Ring](./screenshots/windows10_update_ring.png)
+![Win10/11 Compliance Policy](./screenshots/win10/11-compliance-policy.png)
 
 ### Windows 11 Update Ring  
-![Win11 Update Ring](./screenshots/windows11_update_ring.png)
+![Win11 Update Ring](./screenshots/windows11-update-ring.png)
 
 ### Force Windows 10 Feature Update to 22H2  
-![Feature Update 22H2](./screenshots/win10_feature_update_22H2.png)
+![Feature Update 22H2](./screenshots/win10-feature-update-22H2.png)
 
 ### Force Windows 11 Feature Update to 24H2  
-![Feature Update 24H2](./screenshots/win11_feature_update_24H2.png)
+![Feature Update 24H2](./screenshots/win11-feature-update-24H2.png)
 
 ---
 
