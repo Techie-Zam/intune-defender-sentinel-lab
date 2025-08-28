@@ -41,9 +41,9 @@ Implement App Protection Policies to ensure data security, control data sharing,
 
 | Screenshot Description           | Preview                        |
 |---------------------------------|-------------------------------|
-| App Protection Policy Overview   | ![App Protection Policy](screenshots\app-protection-overview.png)  |
-| Data Protection Settings         | ![Data Protection](screenshots\data-protection-settings.png)       |
-| Access Requirements Configuration| ![Access Requirements](screenshots\access-requirements.png)       |
+| App Protection Policy Overview   | ![App Protection Policy](screenshots/app-protection-overview.png)  |
+| Data Protection Settings         | ![Data Protection](screenshots/data-protection-settings.png)       |
+| Access Requirements Configuration| ![Access Requirements](screenshots/access-requirements.png)       |
 
 
 ---
