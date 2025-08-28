@@ -38,12 +38,11 @@ This section documents the Conditional Access (CA) policies tested in a lab envi
 
 | Screenshot Name                              | Description                                             |
 |----------------------------------------------|---------------------------------------------------------|
-| `[ca_all_policies_list].png`                 | List view of all CA policies in Entra Admin Center     |
-| `[ca_policy_block_legacy].png`               | Block legacy authentication – policy configuration     |
-| `[ca_policy_mfa_all_users].png`              | MFA for all users – user & resource assignment         |
-| `[ca_policy_mfa_admins].png`                 | MFA for admins – role targeting setup                  |
-| `[ca_policy_mfa_azure_mgmt].png`             | MFA for Azure Management – cloud apps selection        |
-| `[ca_policy_mdm_required_m365].png`          | Require compliant device – full policy breakdown       |
+| `[ca-policies-overview].png`                 | List view of all CA policies in Entra Admin Center     |
+| `[ca-policy-block-legacy].png`               | Block legacy authentication – policy configuration     |
+| `[ca-policy-mfa-required-m365].png`          | MFA for all users – user & resource assignment         |
+| `[ca-policy-mfa-admins].png`                 | MFA for admins – role targeting setup                  |
+| `[c-_policy-mdm-required-m365].png`          | Require compliant device – full policy breakdown       |
 
 Place all screenshots in the `/screenshots/05-conditional-access/` directory.
 
