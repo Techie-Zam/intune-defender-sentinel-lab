@@ -1,16 +1,31 @@
-# Intune-Defender-Sentinel Lab
+# Intune-Defender-Sentinel Lab  
+🔐 Modern Endpoint Management + Cloud Security Lab  
 
-## 🔐 Modern Endpoint Management + Cloud Security Lab  
-**Built by a transitioning Endpoint Administrator focused on cloud security career growth.**
+Built by a transitioning Endpoint Administrator focused on cloud security career growth.
 
+---
 
-## 👋 About Me
+## 👋 About Me  
+I'm an IT Support Analyst transitioning into Endpoint Administration and Cloud Security. I first encountered Microsoft Intune in a previous role supporting basic device management tasks — which sparked my interest. Recently, I helped on a VMware-to-Intune migration project that deepened my hands-on experience.
 
-I'm an IT Support Analyst transitioning into Endpoint Administration and Cloud Security. I was first introduced to Microsoft Intune in a previous role where I supported basic device management tasks. That initial exposure got my attention — and in my current role, I had the chance to assist more directly on a VMware-to-Intune migration project.
+This lab is my sandbox to go beyond what I do at work — replicating real-world environments and exploring advanced tools like Defender for Endpoint and Microsoft Sentinel.
 
-That experience pushed me to build this lab. I wanted to go beyond what I could touch at work — so I recreated what I saw in real-world environments and explored more advanced tools like Defender for Endpoint and Microsoft Sentinel.
+This is both training and portfolio — showing the kind of work I’m passionate about: securing endpoints, deploying apps with Intune, and advancing into cloud security.
 
-This lab is both my hands-on training ground and a reflection of the kind of work I want to keep doing: securing endpoints, deploying with Intune, and moving deeper into cloud security roles.
+✨ I believe God provides all that I need for this journey. I’m walking in faith and building in truth.
+
+---
+
+## 🧪 Lab Goals  
+- Build a working MDM/MAM lab with Intune  
+- Deploy Win32 apps, enforce compliance (BitLocker, Defender AV)  
+- Enroll Windows and BYOD iOS devices  
+- Implement Conditional Access policies with Entra ID  
+- Test Autopilot with Hyper-V deployment  
+- Onboard devices to Microsoft Defender for Endpoint  
+- Connect Sentinel to Defender and create alert rules  
+- Document labs for real-world visibility and career readiness  
+
 
 > ✨ I believe God provides all that I need — and that includes this journey. I’m walking in faith and building in truth.
 
