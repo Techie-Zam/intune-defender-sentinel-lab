@@ -66,31 +66,31 @@ Example used for Chrome MSI:
 
 ### Chrome Win32 App Configuration
 
-![chrome_app_config](./screenshots/chrome_app_config.png)
+![chrome_app_config](./screenshots/chrome-app-config.png)
 
 ### Detection Rule for Chrome MSI
 
-![chrome_detection_rule](./screenshots/chrome_detection_rule.png)
+![chrome_detection_rule](./screenshots/chrome-detection-rule.png)
 
 ### Chrome Deployment Status in Intune
 
-![chrome_install_status](./screenshots/chrome_install_status.png)
+![chrome_install_status](./screenshots/chrome-install-status.png)
 
-### Microsoft Store App - Company Portal
+### Windows Apps Assigned - (Company Portal, Chrome, Microsoft 365, Webex)
 
-![company_portal_store_app](./screenshots/company_portal_store_app.png)
+![windows_app_assignments](./screenshots/windows-app-assignments.png)
 
 ### iOS Apps Assigned (Edge, OneDrive, Webex)
 
-![ios_app_assignments](./screenshots/ios_app_assignments.png)
+![ios_app_assignments](./screenshots/ios-app-assignments.png)
 
 ### Win32 Content Prep Tool Packaging
 
-![chrome_packaging_tool](./screenshots/chrome_packaging_tool.png)
+![webex_packaging_tool](./screenshots/webex-packaging-tool.png)
 
 ### All Apps Overview in Intune
 
-![intune_all_apps_view](./screenshots/intune_all_apps_view.png)
+![intune_all_apps_view](./screenshots/intune-all-apps-view.png)
 
 ---
 
